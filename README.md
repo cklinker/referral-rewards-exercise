@@ -51,7 +51,11 @@ about them matters more than how much you finish.
 
 - Please think out loud. We are more interested in your reasoning than in
   silent typing.
-- Docs, Google, and your usual editor are all fine. Please don't use an AI
-  coding assistant during the session.
+- **Use your normal setup, AI assistants included** — Copilot, Claude, Cursor,
+  whatever you'd have open on a Tuesday. We would rather watch how you actually
+  work than watch you work with one hand tied. Narrate what you're asking it
+  for, and expect us to ask you to defend what it hands back.
+- Green tests are necessary, not sufficient. Part of the conversation is why
+  your solution is correct, not just that the suite passes.
 - Ask questions whenever something is ambiguous. Some of it is ambiguous on
   purpose.
