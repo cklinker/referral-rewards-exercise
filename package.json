@@ -1,0 +1,19 @@
+{
+  "name": "pebl-referrals-exercise",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pebl Growth Engineering — 30 minute pairing exercise",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --runInBand",
+    "test:watch": "npm test -- --watch",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "^0.3.11",
+    "@types/jest": "^30.0.0",
+    "@types/node": "^24.10.1",
+    "jest": "^30.2.0",
+    "ts-jest": "^29.4.12",
+    "typescript": "^5.9.3"
+  }
+}
